@@ -1,20 +1,39 @@
 {
-  "admin": [
-    {
-      "username": "admin",
-      "password": "1",
-      "subscription": "active",
-      "expiry": "2025-12-31",
-      "device_id": ""
-    }
-  ],
-  "users": [
-    {
-      "username": "user1",
-      "password": "2",
-      "subscription": "active",
-      "expiry": "2025-12-31",
-      "device_id": ""
-    }
-  ]
+    "admin": [
+        {
+            "username": "admin",
+            "password": "FAIZAN",
+            "subscription": "aimkillapk",
+            "expiry": "2025-12-31",
+            "device_id": ""
+        },
+        {
+            "username": "SHIVANG",
+            "password": "11",
+            "subscription": "tester",
+            "expiry": "2025-12-31",
+            "device_id": ""
+        },
+        {
+            "username": "REG",
+            "password": "11",
+            "subscription": "tester",
+            "expiry": "2025-12-31",
+            "device_id": ""
+        },
+        {
+            "username": "SXC",
+            "password": "1",
+            "subscription": "tester",
+            "expiry": "2025-12-31",
+            "device_id": ""
+        },
+        {
+            "username": "owner",
+            "password": "faiz",
+            "subscription": "owner",
+            "expiry": "2030-12-31",
+            "device_id": ""
+        }
+    ]
 }
